@@ -1,0 +1,3 @@
+interface:
+  display_name: "Paper Folder Obsidian"
+  short_description: "Summarize PDFs from first-level folders into Obsidian notes with extracted figure images."
